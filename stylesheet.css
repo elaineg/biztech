@@ -1,0 +1,75 @@
+
+body {
+  font-family: "Cutive Mono", serif;
+  font-size: 24px;
+  margin: 40px;
+}
+
+img {
+  align-items: center;
+}
+
+.page {
+  height: 100%;
+}
+
+.image {
+  height: 80vh;
+
+}
+
+#pods {
+  background-image: url(https://media.wired.com/photos/59331e87a4b3d04a471895bd/master/pass/Minami_01.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#architecture {
+  background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/df8fd848-8f1a-4279-99a4-75919dd877c8/OleScheeren_2015G-embed.jpg?c=1050%2C550&w=1050);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#alone {
+  background-image: url(https://i.pinimg.com/originals/48/bf/77/48bf77cac968e35108e827db8b71dfd3.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#cityblock {
+  background-image: url(http://postgreenhomes.com/wp-content/uploads/2015/03/Philly-Fishtown-Block-Sizes1.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#transit {
+  background-image: url(https://cuslar.files.wordpress.com/2014/02/pb-120607-saopaulo-9p-photoblog900.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#phones {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/55/People_engaging_with_their_phones_on_the_Seoul_Metro_-_5166351572_4e33242d3e_o.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#community {
+  background-image: url(https://www.towson.edu/studentlife/images/big-event-digging-m.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#vancouver {
+  background-image: url(https://www.roughguides.com/wp-content/uploads/2015/02/14-Vancouver-164848494-1680x1050.jpg);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
